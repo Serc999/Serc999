@@ -27,14 +27,7 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Stats</h3>
-<p align="center">
-  <!-- Genel stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Serc999&show_icons=true&theme=radical&count_private=true&hide_border=false" height="180"/>
-  <!-- Streak / aktif günler -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serc999&theme=radical&hide_border=false" height="180"/>
-  
-</p>
+
 
 
 
