@@ -17,4 +17,4 @@
 
 
 
-![snake gif](https://github.com/Serc999/Serc999/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<seu Serc999>/<seu Serc999>/blob/output/github-contribution-grid-snake2.svg)
